@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "React Hooks",
+      "content": "Hooks are an upcoming feature that lets you use state and other React features without writing a class. They’re currently in React v16.8.0-alpha.0."
+    },
+    {
+      "id": 2,
+      "title": "componentDidCatch",
+      "content": "Error boundaries are wrapper components that use componentDidCatch() to capture errors anywhere in their child component tree."
+    }
+  ]
+}
