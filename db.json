@@ -1,5 +1,5 @@
 {
-  "items": [
+  "accordionItems": [
     {
       "id": 1,
       "title": "React Hooks",
@@ -9,6 +9,18 @@
       "id": 2,
       "title": "componentDidCatch",
       "content": "Error boundaries are wrapper components that use componentDidCatch() to capture errors anywhere in their child component tree."
+    }
+  ],
+  "tabItems": [
+    {
+      "id": 1,
+      "title": "Chow Chow Overview",
+      "content": "The Chow Chow, an all-purpose dog of ancient China, presents the picture of a muscular, deep-chested aristocrat with an air of inscrutable timelessness. Dignified, serious-minded, and aloof, the Chow Chow is a breed of unique delights."
+    },
+    {
+      "id": 2,
+      "title": "Appearance",
+      "content": "A powerful, sturdy, squarely built, upstanding dog of Arctic type, medium in size with strong muscular development and heavy bone. The body is compact, short coupled, broad and deep, the tail set high and carried closely to the back, the whole supported by four straight, strong, sound legs. Viewed from the side, the hind legs have little apparent angulation and the hock joint and metatarsals are directly beneath the hip joint. It is this structure which produces the characteristic shorter, stilted gait unique to the breed. The large head with broad, flat skull and short, broad and deep muzzle is proudly carried and accentuated by a ruff. Elegance and substance must be combined into a well balanced whole, never so massive as to outweigh his ability to be active, alert and agile. Clothed in a smooth or an offstanding rough double coat, the Chow is a masterpiece of beauty, dignity and naturalness. Essential to true Chow type are his unique blue-black tongue, scowling expression and stilted gait."
     }
   ]
 }
