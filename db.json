@@ -11,7 +11,7 @@
       "content": "Error boundaries are wrapper components that use componentDidCatch() to capture errors anywhere in their child component tree."
     }
   ],
-  "tabItems": [
+  "tabsItems": [
     {
       "id": 1,
       "title": "Chow Chow Overview",
